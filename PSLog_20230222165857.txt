@@ -1,0 +1,2 @@
+2023/02/22 16:58:57	SUCCESS!! Word not running.
+2023/02/22 16:58:57	ERROR Installing LinkManager : Cannot index into a null array.
